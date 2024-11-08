@@ -39,3 +39,14 @@
 - **Bonus 1:** 1h30min
 - **Bonus 2:** 1h30min
 - **Total:** 15h
+
+## Project Setup
+### Requirements
+Run the following command to install requirements:
+
+```bash
+# if you're on a local environment
+pip install -r requirements/local.txt
+# if you're on production
+pip install -r requirements/production.txt
+```
